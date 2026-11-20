@@ -1,0 +1,5 @@
+1|test/comparador_test.dart|lib/dominio/comparador.dart
+2|test/repaso_progreso_test.dart|lib/dominio/repaso.dart;lib/dominio/progreso.dart;lib/dominio/plan_diario.dart
+3|test/tutor_test.dart|lib/dominio/tutor.dart;lib/datos/tutor_simulado.dart;lib/datos/tutor_http.dart
+4|test/vms_test.dart|lib/presentacion/vm/aprendizaje_vm.dart;lib/presentacion/vm/pronunciacion_vm.dart;lib/presentacion/vm/dictado_vm.dart;lib/presentacion/vm/lectura_vm.dart;lib/presentacion/vm/escritura_vm.dart;lib/presentacion/vm/conversacion_vm.dart;lib/presentacion/vm/repaso_vm.dart
+5|*|
