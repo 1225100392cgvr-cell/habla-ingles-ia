@@ -125,3 +125,18 @@ El proxy de la IA está en `proxy/` (`node --test` y `node server.js` con `ANTHR
 ## Resultado
 
 Las cuatro capas del proyecto se construyeron con el ciclo rojo → verde, con su evidencia en cada fase y la corrida final de las 78 pruebas.
+
+## App corriendo en el emulador
+
+<!-- APP_INICIO -->
+Capturas tomadas en el emulador de Android con `flutter drive` (prueba de integraci&oacute;n `integration_test/capturas_test.dart`, que recorre la app y toma una foto de cada pantalla).
+
+**La app abierta en el emulador**
+
+<img src="capturas/app/00_emulador.png" width="380">
+
+**La prueba de integraci&oacute;n ejecutada desde el cmd**
+
+![Prueba de integraci&oacute;n en el cmd](capturas/app/prueba_integracion_cmd.png)
+
+<!-- APP_FIN -->
