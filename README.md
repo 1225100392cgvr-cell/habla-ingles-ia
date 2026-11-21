@@ -135,6 +135,12 @@ Capturas tomadas en el emulador de Android con `flutter drive` (prueba de integr
 
 <img src="capturas/app/00_emulador.png" width="380">
 
+| | | |
+|:-:|:-:|:-:|
+| <img src="capturas/app/01_inicio_plan_de_hoy.png" width="230"><br>Inicio plan de hoy | <img src="capturas/app/02_escritura_con_correccion.png" width="230"><br>Escritura con correccion | <img src="capturas/app/03_conversacion_con_el_tutor.png" width="230"><br>Conversacion con el tutor |
+| <img src="capturas/app/04_lectura.png" width="230"><br>Lectura | <img src="capturas/app/05_dictado.png" width="230"><br>Dictado | <img src="capturas/app/06_pronunciacion.png" width="230"><br>Pronunciacion |
+| <img src="capturas/app/07_repaso_espaciado.png" width="230"><br>Repaso espaciado |   |   |
+
 **La prueba de integraci&oacute;n ejecutada desde el cmd**
 
 ![Prueba de integraci&oacute;n en el cmd](capturas/app/prueba_integracion_cmd.png)
